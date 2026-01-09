@@ -18,7 +18,7 @@ Both approaches were used to explore model behavior, performance, and generaliza
 ## Data
 Features include yield (bushels/acre), weather variables (precipitation, temperature, solar radiation, vapor pressure), soil characteristics (pH, texture, water capacity), and management indicators (percent planted).
 
-## Results Summary (high-level)
+## Results Summary
 Tree-based ML models achieved lower validation error after tuning, while the LSTM showed limitations in generalization under the available data. This reinforced the importance of careful validation and reliability checks before real-world deployment.
 
 ## Files
