@@ -22,8 +22,8 @@ Features include yield (bushels/acre), weather variables (precipitation, tempera
 Tree-based ML models achieved lower validation error after tuning, while the LSTM showed limitations in generalization under the available data. This reinforced the importance of careful validation and reliability checks before real-world deployment.
 
 ## Files
-- `BSE5124_FinalProject_Batubo_ML.ipynb` — ML implementation and evaluation
-- `BSE5124_FinalProject_Batubo_DL.ipynb` — LSTM implementation and evaluation
+- `BSE5124_FinalProject_Batubo_ML.ipynb` - ML implementation and evaluation
+- `BSE5124_FinalProject_Batubo_DL.ipynb` - LSTM implementation and evaluation
 
 ## Notes
 This work reflects my individual coursework and learning process.
